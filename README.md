@@ -1,5 +1,5 @@
 # awesome-projects
-List of projects I would like to contribute to / support
+List of projects I would like to support and/or contribute to
 
 ## Messaging
 - [XMPP](https://github.com/xsf) - The universal messaging standard
