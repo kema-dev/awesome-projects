@@ -19,9 +19,11 @@ List of projects I would like to support and/or contribute to
 ## Collaboration
 - [CryptPad](https://github.com/xwiki-labs) - Collaboration suite, end-to-end encrypted and open-source
 
-## Other
+## Browser
 - [Mozilla](https://github.com/mozilla) - Various projects, from Firefox browser to speech-to-text software
 - [Brave](https://github.com/brave/) - Mainly a privacy focused browser, but also developing privcacy focused search engine and softwares for video calls, news...
+
+## Other list of tools
 - [PrivacyTools](https://www.privacytools.io/) - List of projects to fight surveillance with encryption and privacy tools
 
 ## Other awesome lists
