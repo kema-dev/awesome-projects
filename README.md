@@ -5,6 +5,7 @@ List of projects I would like to support and/or contribute to
 - [XMPP](https://github.com/xsf) - The universal messaging standard
 - [Signal](https://github.com/signalapp) - Messaging app focused on privacy (Easy alternative to Meta's Messenger)
 - [Thunderbird](https://www.thunderbird.net/fr/) - Free email application that’s easy to set up and customize - and it’s loaded with great features!
+- [ProtonMail](https://github.com/ProtonMail) - Secure Email End to End encrypted by default
 
 ## Payment
 - [Monero](https://github.com/monero-project) - Private, decentralized cryptocurrency that keeps your finances confidential and secure
