@@ -16,6 +16,7 @@ List of projects I would like to support and/or contribute to
 ## Internet
 
 - [DuckDuckGo](https://github.com/duckduckgo) - Privacy focused search engine, but also building privacy tools
+- [Bitwarden](https://github.com/bitwarden) - Best open source password manager in my opinion
 
 ## Self-Hosting
 
@@ -31,7 +32,7 @@ List of projects I would like to support and/or contribute to
 - [Mozilla](https://github.com/mozilla) - Various projects, from Firefox browser to speech-to-text software
 - [Brave](https://github.com/brave/) - Mainly a privacy focused browser, but also developing privcacy focused search engine and softwares for video calls, news...
 
-## Other list of tools
+## Other lists of tools
 
 - [PrivacyTools](https://www.privacytools.io/) - List of projects to fight surveillance with encryption and privacy tools
 
