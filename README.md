@@ -8,6 +8,7 @@ List of projects I would like to support and/or contribute to
 - [Signal](https://github.com/signalapp) - Messaging app focused on privacy (Easy alternative to Meta's Messenger)
 - [Thunderbird](https://www.thunderbird.net/fr/) - Free email application that’s easy to set up and customize - and it’s loaded with great features!
 - [ProtonMail](https://github.com/ProtonMail) - Secure Email End to End encrypted by default
+- [Language Tool](Instant Grammar and Spell Checker) - Instant Grammar and Spell Checker
 
 ## Payment
 
