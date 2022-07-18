@@ -32,6 +32,8 @@ List of projects I would like to support and/or contribute to
 
 - [Mozilla](https://github.com/mozilla) - Various projects, from Firefox browser to speech-to-text software
 - [Brave](https://github.com/brave/) - Mainly a privacy focused browser, but also developing privcacy focused search engine and softwares for video calls, news...
+- [I2P](https://geti2p.net/) - End to end encrypted private network layer
+- [ExifCleaner](https://github.com/szTheory/exifcleaner) - Metadata remover for images
 
 ## Other lists of tools
 
