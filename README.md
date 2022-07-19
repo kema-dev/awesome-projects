@@ -46,3 +46,5 @@ List of projects I would like to support and/or contribute to
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [xwiki-labs/awesome-selfhosted](https://github.com/xwiki-labs/awesome-selfhosted)
 - [xwiki-labs/alternative-internet](https://github.com/xwiki-labs/alternative-internet)
+- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+- [awesome-pentest](https://github.com/enaqx/awesome-pentest)
