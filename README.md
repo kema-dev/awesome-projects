@@ -41,6 +41,8 @@ List of projects I would like to support and/or contribute to
 
 ## Other awesome lists
 
+- [GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [VSCode](https://github.com/viatsko/awesome-vscode)
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 - [xwiki-labs/awesome-selfhosted](https://github.com/xwiki-labs/awesome-selfhosted)
 - [xwiki-labs/alternative-internet](https://github.com/xwiki-labs/alternative-internet)
